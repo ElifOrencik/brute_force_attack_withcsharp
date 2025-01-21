@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "brute_force_attack_eliforencik", "brute_force_attack_eliforencik\brute_force_attack_eliforencik.csproj", "{BBAEA006-3C9F-40A9-ACEF-73B8A8368F55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBAEA006-3C9F-40A9-ACEF-73B8A8368F55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBAEA006-3C9F-40A9-ACEF-73B8A8368F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBAEA006-3C9F-40A9-ACEF-73B8A8368F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBAEA006-3C9F-40A9-ACEF-73B8A8368F55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A565507-FF02-41AE-AF8C-19A9C6AB3C11}
+	EndGlobalSection
+EndGlobal
